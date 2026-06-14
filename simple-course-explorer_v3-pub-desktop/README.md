@@ -70,14 +70,17 @@ Here is how the system boundaries are structured:
 - **`admin/`**: Houses PHP scripts for dashboard navigation, lesson editing, and authentication logic.
 - **`dev/admin_scripts/`**: Holds CLI-only configuration scripts (such as password updaters, builders, and backups).
 - **`dev/specs/`**: Developer specifications documenting critical subsystems and guidelines:
-  - [Setup & Installation Specification](file:///d:/Dev/_PLUGIN-DEV/simple-course-explorer/dev/specs/setup-installation-spec.md)
-  - [Security & Authentication Specification](file:///d:/Dev/_PLUGIN-DEV/simple-course-explorer/dev/specs/auth-system-spec.md)
-  - [Markdown & Glyph Syntax Reference Guide](file:///d:/Dev/_PLUGIN-DEV/simple-course-explorer/dev/specs/markdown-spec.md)
-  - [CMS & Content Authoring Specification](file:///d:/Dev/_PLUGIN-DEV/simple-course-explorer/dev/specs/cms-authoring-spec.md)
-  - [Compiler Pipeline & Build Specification](file:///d:/Dev/_PLUGIN-DEV/simple-course-explorer/dev/specs/compiler-pipeline-spec.md)
+  - [Setup & Installation Specification](simple-course-explorer/dev/specs/setup-installation-spec.md)
+  - [Security & Authentication Specification](simple-course-explorer/dev/specs/auth-system-spec.md)
+  - [Markdown & Glyph Syntax Reference Guide](simple-course-explorer/dev/specs/markdown-spec.md)
+  - [CMS & Content Authoring Specification](simple-course-explorer/dev/specs/cms-authoring-spec.md)
+  - [Compiler Pipeline & Build Specification](simple-course-explorer/dev/specs/compiler-pipeline-spec.md)
+
 
 ---
 
 #&nbsp;Copyright (c) 2026:
 #&nbsp;vatofichor&nbsp;-&nbsp;Sebastian Mass&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;_&lt;]
+#&nbsp;&amp;&nbsp;Assisted By Gemini Antigravity&nbsp;\|\  
+;Sebastian Mass&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&gt;_&lt;]
 #&nbsp;&amp;&nbsp;Assisted By Gemini Antigravity&nbsp;\|\  
