@@ -36,7 +36,7 @@ If you ever need to change or reset your administrator password:
 
 ---
 
-## 🛠️ Advanced Operations (Web Server / Hosting Mode)
+## Advanced Operations (Web Server / Hosting Mode)
 
 For web administrators, systems engineers, and developers deploying Course Explorer on remote host environments:
 
