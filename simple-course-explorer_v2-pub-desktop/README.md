@@ -1,6 +1,6 @@
-# Course Explorer & Content Creator Studio
+# Simple Course Explorer & Content Creator Studio
 
-Welcome to **Course Explorer**, a retro-premium, lightweight, offline-capable learning management system and content creator studio. 
+Welcome to **Simple Course Explorer**, a retro-premium, lightweight, offline-capable learning management system and content creator studio. 
 
 Course Explorer is designed to run in two primary modes:
 1. **Desktop Native Mode:** Optimized for parents, educators, and individual users running locally on a personal computer (no technical expertise or server hosting required).
@@ -8,7 +8,7 @@ Course Explorer is designed to run in two primary modes:
 
 ---
 
-## 🚀 Quick Start (Desktop Native Mode)
+## Quick Start (Desktop Native Mode)
 
 If you are a parent, teacher, or student running Course Explorer on a Windows or Linux/macOS desktop, follow these simple steps:
 
@@ -36,7 +36,7 @@ If you ever need to change or reset your administrator password:
 
 ---
 
-## 🛠️ Advanced Operations (Web Server / Hosting Mode)
+## Advanced Operations (Web Server / Hosting Mode)
 
 For web administrators, systems engineers, and developers deploying Course Explorer on remote host environments:
 
@@ -62,7 +62,7 @@ This updates the public lesson structures and updates `/public/content/content_m
 
 ---
 
-## 📂 Project Repository Boundaries
+## Project Repository Boundaries
 
 Here is how the system boundaries are structured:
 - **`content_source/`**: Contains raw markdown files organized into sections (edited via the page editor).
