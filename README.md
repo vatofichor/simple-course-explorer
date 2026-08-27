@@ -91,6 +91,12 @@ Here is how the system boundaries are structured:
   - [CMS & Content Authoring Specification](dev/specs/cms-authoring-spec.md)
   - [Compiler Pipeline & Build Specification](dev/specs/compiler-pipeline-spec.md)
 
+## Screenshots
+
+![Course Explorer Navigation & Dashboard](dev/readme-screenshots/courseexplorer-firstpage-withmenu.png)
+
+![Course Explorer Lesson View with Progress Bar](dev/readme-screenshots/courseexplorer-withprogress-nomenu.png)
+
 ---
 
 #&nbsp;Copyright (c) 2026:
